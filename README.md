@@ -3,8 +3,6 @@
 <!--
 **rivermoon21/rivermoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-https://github.com/rivermoon21/rivermoon21/blob/main/images/waving.gif
 ### 🔭 I’m currently working on:
 - one
 
