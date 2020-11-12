@@ -3,22 +3,21 @@
 <!--
 **rivermoon21/rivermoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 🔭 I’m currently working on:
-- one
-
----
 
 ### 🌱 I’m currently learning:
-- two
-
+- Learning how to create smart contracts on the Ethereum Network
+- Reading charts on TradingView
+- Making indicators and trading strategies for stocks and crypto
+- Macro Economics
 ---
-
+### 🔭 I’m currently working on:
+- Working for an aerospace company doing embedded software
+---
 ### 📫 How to reach me:
-- three
-
+- mrivermoon@protonmail.com
 ---
-
 ### ⚡ Fun Facts About Me:
-- four
-
+- Was part of a project nominated for <a href="https://time.com/collection/best-inventions-2019/5733080/lightsail-2/">TIME's Best Invetions of 2019</a>
+- English is my second language
+- I enjoy to play and watch soccer
 ---
