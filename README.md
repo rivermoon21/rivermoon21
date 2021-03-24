@@ -4,13 +4,14 @@
 **rivermoon21/rivermoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🌱 I’m currently learning:
-- Learning how to create smart contracts on the Ethereum Network
-- Reading charts on TradingView
-- Making indicators and trading strategies for stocks and crypto
-- Macro Economics
+### 🌱 I’m currently learning how to:
+- create APIs with Python and JS
+- create smart contracts on the Ethereum Network
+- read charts on TradingView
+- customize indicators and trading strategies for stocks and crypto
+- interpret macro economics
 ---
-### 🔭 I’m currently working on:
+### 🔭 I’m currently:
 - Working for an aerospace company doing embedded software
 ---
 ### 📫 How to reach me:
